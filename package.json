@@ -1,0 +1,15 @@
+{
+	"name": "evolution-task-1",
+	"version": "1.0.0",
+	"description": "This is my first project",
+	"main": "index.js",
+	"repository": "git@github.com:Nadyushka/evolution-task-1.git",
+	"author": "Nadya Baranova <12nadya11@gmail.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"jest": "^29.3.0"
+	},
+	"scripts": {
+		"test": "jest"
+	}
+}
