@@ -4,7 +4,7 @@
 
 ### Follow instractions to use my file
 
-**There is nothing diffecult**
+**There is nothing difficult**
 
 1 Use comand **git clone (SSH link)**
 2 Open project in your IDE
@@ -14,4 +14,4 @@
 6 All tests will be passed (6 out of 6).
 
 
-#### Your are welcom
+#### Your are welcome
